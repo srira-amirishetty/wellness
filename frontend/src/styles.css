@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .retreat-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5px;
+  }
+  
+  .filter,
+  .search-bar,
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+  }
+  
+  .filter label,
+  .search-bar input {
+    margin: 0 1rem;
+  }
+  
+  .pagination button {
+    margin: 0 1rem;
+  }
+  
